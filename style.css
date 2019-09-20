@@ -15,17 +15,20 @@ body {
 header {
     padding: 20px;
     margin-bottom: 10px;
+    border-radius: 10px;
     background: #ebebeb;
 }
 
 nav {
     padding: 20px;
     margin-bottom: 20px;
+    border-radius: 10px;
     background: #ebebeb;
 }
 
 section {
     width: 495px;
+    border-radius: 10px;
     background: #ebebeb;
 }
 
@@ -36,6 +39,7 @@ aside {
     padding: 20px;
     margin-top: -140px;
     margin-bottom: 20px;
+    border-radius: 10px;
     background: #ebebeb;
 }
 
@@ -43,21 +47,25 @@ footer {
     clear: both;
     padding: 20px;
     margin-bottom: 20px;
+    border-radius: 10px;
     background: #ebebeb;
 }
 
 article {
     color: #ebebeb;
+    border-radius: 10px;
     background: #777;
 }
 
 h1 {
     font-size: 18px;
     color: #777;
+    border-radius: 10px;
     background: #ebebeb;
 }
 
 p {
     color: #777;
+    border-radius: 10px;
     background: #ebebeb;
 }
