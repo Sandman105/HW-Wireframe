@@ -21,13 +21,14 @@ header {
 
 nav {
     padding: 20px;
-    margin-bottom: 20px;
     border-radius: 10px;
     background: #ebebeb;
 }
 
 section {
     width: 495px;
+    padding: 20px;
+    margin-top: 10px;
     border-radius: 10px;
     background: #ebebeb;
 }
@@ -35,10 +36,10 @@ section {
 aside {
     float: right;
     width: 450px;
-    height: 250px;
+    height: 260px;
     padding: 20px;
-    margin-top: -140px;
-    margin-bottom: 20px;
+    margin-top: -260px;
+    margin-bottom: 10px;
     border-radius: 10px;
     background: #ebebeb;
 }
@@ -53,6 +54,7 @@ footer {
 
 article {
     color: #ebebeb;
+    padding: 30px;
     border-radius: 10px;
     background: #777;
 }
@@ -60,12 +62,14 @@ article {
 h1 {
     font-size: 18px;
     color: #777;
+    padding: 10px;
     border-radius: 10px;
     background: #ebebeb;
 }
 
 p {
     color: #777;
+    padding: 10px;
     border-radius: 10px;
     background: #ebebeb;
 }
